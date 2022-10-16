@@ -1,0 +1,5 @@
+{
+  "signal": "SIGINT",
+  "ext": "js,ts,json",
+  "watch": ["."]
+}
